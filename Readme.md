@@ -20,4 +20,14 @@ Pollyana Alice da Costa | E-mail | 12111711
 - Indisponibilidade de locais para descarte correto de resíduos;
 - Desinformação sobre pontos de coleta de resíduos.
 
+## **Objetivo**
+
+- Mapear os pontos de destinação de diversos resíduos;
+- Cadastrar novos pontos de destinação de resíduos;
+- Disponibilizar informações ao usuário sobre o impacto de diversos resíduos.
+
+## **Proposta de Valor**
+
+Promover a conscientização do descarte ideal dos diversos tipos de resíduos gerados nos centros urbanos, através da indicação de locais de descarte correto e facilitando o acesso aos meios adequados de destino do lixo.
+
 
