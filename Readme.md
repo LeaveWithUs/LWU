@@ -30,4 +30,7 @@ Pollyana Alice da Costa | E-mail | 12111711
 
 Promover a conscientização do descarte ideal dos diversos tipos de resíduos gerados nos centros urbanos, através da indicação de locais de descarte correto e facilitando o acesso aos meios adequados de destino do lixo.
 
+## **Preview do Site**
+![Celular com preview do app](https://github.com/LeaveWithUs/LWU/blob/master/Apresenta%C3%A7%C3%B5es/Preview-1.png)
+![Celular com preview do app](https://github.com/LeaveWithUs/LWU/blob/master/Apresenta%C3%A7%C3%B5es/Preview-2.png)
 
